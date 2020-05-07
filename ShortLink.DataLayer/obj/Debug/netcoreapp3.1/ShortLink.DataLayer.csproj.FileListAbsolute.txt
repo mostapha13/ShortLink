@@ -1,0 +1,12 @@
+C:\ShortLink\ShortLink\ShortLink.DataLayer\bin\Debug\netcoreapp3.1\ShortLink.DataLayer.deps.json
+C:\ShortLink\ShortLink\ShortLink.DataLayer\bin\Debug\netcoreapp3.1\ShortLink.DataLayer.dll
+C:\ShortLink\ShortLink\ShortLink.DataLayer\obj\Debug\netcoreapp3.1\ShortLink.DataLayer.csprojAssemblyReference.cache
+C:\ShortLink\ShortLink\ShortLink.DataLayer\obj\Debug\netcoreapp3.1\ShortLink.DataLayer.AssemblyInfoInputs.cache
+C:\ShortLink\ShortLink\ShortLink.DataLayer\obj\Debug\netcoreapp3.1\ShortLink.DataLayer.AssemblyInfo.cs
+C:\ShortLink\ShortLink\ShortLink.DataLayer\bin\Debug\netcoreapp3.1\ShortLink.DataLayer.runtimeconfig.json
+C:\ShortLink\ShortLink\ShortLink.DataLayer\bin\Debug\netcoreapp3.1\ShortLink.DataLayer.runtimeconfig.dev.json
+C:\ShortLink\ShortLink\ShortLink.DataLayer\bin\Debug\netcoreapp3.1\ShortLink.DataLayer.pdb
+C:\ShortLink\ShortLink\ShortLink.DataLayer\obj\Debug\netcoreapp3.1\ShortLink.DataLayer.csproj.CoreCompileInputs.cache
+C:\ShortLink\ShortLink\ShortLink.DataLayer\obj\Debug\netcoreapp3.1\ShortLink.DataLayer.dll
+C:\ShortLink\ShortLink\ShortLink.DataLayer\obj\Debug\netcoreapp3.1\ShortLink.DataLayer.pdb
+C:\ShortLink\ShortLink\ShortLink.DataLayer\obj\Debug\netcoreapp3.1\ShortLink.DataLayer.genruntimeconfig.cache

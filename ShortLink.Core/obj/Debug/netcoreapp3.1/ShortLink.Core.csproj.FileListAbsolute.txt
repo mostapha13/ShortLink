@@ -1,0 +1,15 @@
+C:\ShortLink\ShortLink\ShortLink.Core\bin\Debug\netcoreapp3.1\ShortLink.Core.deps.json
+C:\ShortLink\ShortLink\ShortLink.Core\bin\Debug\netcoreapp3.1\ShortLink.Core.dll
+C:\ShortLink\ShortLink\ShortLink.Core\obj\Debug\netcoreapp3.1\ShortLink.Core.csprojAssemblyReference.cache
+C:\ShortLink\ShortLink\ShortLink.Core\obj\Debug\netcoreapp3.1\ShortLink.Core.AssemblyInfoInputs.cache
+C:\ShortLink\ShortLink\ShortLink.Core\obj\Debug\netcoreapp3.1\ShortLink.Core.AssemblyInfo.cs
+C:\ShortLink\ShortLink\ShortLink.Core\bin\Debug\netcoreapp3.1\ShortLink.Core.runtimeconfig.json
+C:\ShortLink\ShortLink\ShortLink.Core\bin\Debug\netcoreapp3.1\ShortLink.Core.runtimeconfig.dev.json
+C:\ShortLink\ShortLink\ShortLink.Core\bin\Debug\netcoreapp3.1\ShortLink.Core.pdb
+C:\ShortLink\ShortLink\ShortLink.Core\obj\Debug\netcoreapp3.1\ShortLink.Core.csproj.CoreCompileInputs.cache
+C:\ShortLink\ShortLink\ShortLink.Core\obj\Debug\netcoreapp3.1\ShortLink.Core.dll
+C:\ShortLink\ShortLink\ShortLink.Core\obj\Debug\netcoreapp3.1\ShortLink.Core.pdb
+C:\ShortLink\ShortLink\ShortLink.Core\obj\Debug\netcoreapp3.1\ShortLink.Core.genruntimeconfig.cache
+C:\ShortLink\ShortLink\ShortLink.Core\bin\Debug\netcoreapp3.1\ShortLink.DataLayer.dll
+C:\ShortLink\ShortLink\ShortLink.Core\bin\Debug\netcoreapp3.1\ShortLink.DataLayer.pdb
+C:\ShortLink\ShortLink\ShortLink.Core\obj\Debug\netcoreapp3.1\ShortLink.Core.csproj.CopyComplete
