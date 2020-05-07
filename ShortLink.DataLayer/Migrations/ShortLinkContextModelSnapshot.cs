@@ -26,7 +26,7 @@ namespace ShortLink.DataLayer.Migrations
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<DateTime>("CreateDate")
+                    b.Property<DateTime?>("CreateDate")
                         .HasColumnType("datetime2");
 
                     b.Property<string>("Link")
@@ -36,6 +36,11 @@ namespace ShortLink.DataLayer.Migrations
 
                     b.Property<string>("ShortLink")
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("SiteName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(250)")
+                        .HasMaxLength(250);
 
                     b.Property<string>("Title")
                         .IsRequired()

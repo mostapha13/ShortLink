@@ -27,12 +27,16 @@ namespace ShortLink.DataLayer.Entites
         [MaxLength(250, ErrorMessage = "طول فیلید {0} باید حداکثر {1} باشد")]
         public string Link { get; set; }
 
+        [Display(Name = "نام سایت")]
+        [Required(ErrorMessage = "فیلد {0} اجباری می باشد")]
+        [MaxLength(250, ErrorMessage = "طول فیلید {0} باید حداکثر {1} باشد")]
+        public string SiteName { get; set; }
 
 
 
         public string ShortLink { get; set; }
 
-        public DateTime CreateDate { get; set; }
+        public DateTime? CreateDate { get; set; }
 
         #endregion
 

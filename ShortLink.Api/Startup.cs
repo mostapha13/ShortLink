@@ -12,6 +12,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using ShortLink.DataLayer.Context;
+using ShortLink.DataLayer.Repository;
+using Microsoft.OpenApi.Models;
 
 namespace ShortLink.Api
 {
@@ -38,6 +40,25 @@ namespace ShortLink.Api
 
             #endregion
 
+            #region IOC
+
+            services.AddScoped<IGenerateShortLinkRepository, GenerateShortLinkRepository>();
+
+            #endregion
+
+            #region Swagger
+
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "ShortLink", Version = "v1" });
+
+
+            });
+
+            #endregion
+
+
+
             services.AddControllers();
         }
 
@@ -54,6 +75,19 @@ namespace ShortLink.Api
             app.UseRouting();
 
             app.UseAuthorization();
+
+
+            #region Swagger
+
+            app.UseSwagger();
+
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Period");
+            });
+
+
+            #endregion
 
             app.UseEndpoints(endpoints =>
             {

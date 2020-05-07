@@ -17,9 +17,12 @@ namespace ShortLink.DataLayer.Context
 
         #endregion
 
+
+        #region Entites
         public DbSet<GenerateLink> GenerateLinks { get; set; }
 
 
+        #endregion
 
         #region OnModelCreating
         protected override void OnModelCreating(ModelBuilder modelBuilder)
